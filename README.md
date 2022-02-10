@@ -37,6 +37,7 @@ print("Product of two arrays is:",result)
 ```
 
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/94164665/153344071-62b9aaba-6613-4005-9933-0f01e1bb18df.png)
 
 ## RESULT:
 
