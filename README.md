@@ -1,6 +1,8 @@
 # Multiplying-two-matrix
 
 ## AIM:
+To write a python program to multiply two arrays using numpy.
+
 
 ## ALGORITHM:
 
@@ -40,5 +42,7 @@ print("Product of two arrays is:",result)
 ![image](https://user-images.githubusercontent.com/94164665/153344071-62b9aaba-6613-4005-9933-0f01e1bb18df.png)
 
 ## RESULT:
+The above program is successfully to multiply two arrays using numpy.
+
 
 
