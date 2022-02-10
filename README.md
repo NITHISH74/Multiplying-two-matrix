@@ -21,7 +21,7 @@ Print the product of the two array.
 ```
 # Developed by: NITHISHWAR S
 # Reference no: 21002766
-# To write a program for getting the word count from a file.
+
 
 import numpy as np
 list1, list2 = [],[]
@@ -40,4 +40,5 @@ print("Product of two arrays is:",result)
 ![image](https://user-images.githubusercontent.com/94164665/153344071-62b9aaba-6613-4005-9933-0f01e1bb18df.png)
 
 ## RESULT:
+
 
